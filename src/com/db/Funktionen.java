@@ -76,6 +76,7 @@ public class Funktionen{
 	writer.write("KUNDE:"+KuVorname+" "+KuNachname+"\t\t\t\t"+formatter3.format(currentTime) );
 	writer.newLine();
 	writer.newLine();
+	writer.newLine();
 	writer.write("PRODUKT\t\t PREIS");
 	writer.newLine();
 
