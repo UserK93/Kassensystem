@@ -1,0 +1,12 @@
+KUNDE:Franz Kafka				2021.09.03 - 02:44:55 
+
+PRODUKT		 PREIS
+
+PC x 1 299.0 Euro 			
+
+Tisch x 3 597.0 Euro 			
+
+
+______________________________________________
+
+Gesamtpreis 896.0 Euro

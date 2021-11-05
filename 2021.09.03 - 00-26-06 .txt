@@ -1,0 +1,12 @@
+KUNDE:Franz Kafka				2021.09.03 - 00:26:06 
+
+PRODUKT		 PREIS
+
+Tisch x 2 240.0 Euro 			
+
+Banane x 5 4.95 Euro 			
+
+
+______________________________________________
+
+Gesamtpreis 244.95 Euro
