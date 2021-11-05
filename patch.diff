@@ -1,0 +1,15 @@
+ src/com/db/Funktionen.java | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/src/com/db/Funktionen.java b/src/com/db/Funktionen.java
+index 5858664..7d5e763 100644
+--- a/src/com/db/Funktionen.java
++++ b/src/com/db/Funktionen.java
+@@ -76,7 +76,6 @@ public class Funktionen{
+ 	writer.write("KUNDE:"+KuVorname+" "+KuNachname+"\t\t\t\t"+formatter3.format(currentTime) );
+ 	writer.newLine();
+ 	writer.newLine();
+-	writer.newLine();
+ 	writer.write("PRODUKT\t\t PREIS");
+ 	writer.newLine();
+ 
